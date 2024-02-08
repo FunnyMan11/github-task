@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .repository {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+  }
+  
+  .repository h2 {
+    margin: 5px 0;
+  }
+  
+  .repository p {
+    margin: 5px 0;
+    color: #666;
+  }
+  
